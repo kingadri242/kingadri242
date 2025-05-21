@@ -5,7 +5,10 @@
 
 <h2>🛠️ |Hi I'm Adrian MM </h2>
 
-Welcome to my profile! I'm a student passionate about programming because I enjoy creating practical solutions and constantly learning about technology. I also love sports, especially football and basketball as they help me stay active and balance my time between physical activity and intellectual development.
+Welcome to my profile! I'm a student passionate about programming because I enjoy creating practical solutions and constantly learning about technology. 
+
+![image](https://github.com/user-attachments/assets/e9f16e47-16da-469d-8391-68a6eda98614)
+I also love sports, especially football and basketball as they help me stay active and balance my time between physical activity and intellectual development.
 
 <table align="center">
     <tr>
