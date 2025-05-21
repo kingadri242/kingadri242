@@ -7,7 +7,7 @@
 
 Welcome to my profile! I'm a student passionate about programming because I enjoy creating practical solutions and constantly learning about technology. 
 
-![image](https://github.com/user-attachments/assets/88252c02-d952-4f7b-ad4b-65a960297cca)
+![image](https://github.com/user-attachments/assets/0d3e7bbb-ef89-4498-adc4-6d745600a77b)
 I also love sports, especially football and basketball as they help me stay active and balance my time between physical activity and intellectual development.
 
 <table align="center">
