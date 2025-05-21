@@ -5,7 +5,7 @@
 
 <h2>🛠️ |Hi I'm Adrian MM </h2>
 
-Welcome to my profile! I'm a student
+Welcome to my profile! I'm a student passionate about programming because I enjoy creating practical solutions and constantly learning about technology. I also love sports, especially football and basketball as they help me stay active and balance my time between physical activity and intellectual development.
 
 <table align="center">
     <tr>
