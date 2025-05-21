@@ -4,6 +4,9 @@
 </a>
 
 <h2>🛠️ |Hi I'm Adrian MM </h2>
+
+Welcome to my profile! I'm a student
+
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
